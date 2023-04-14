@@ -8,6 +8,7 @@
     * [Combining Neurons into a Neural Network](#nn)
     * [Training a Neural Network, Part 1]()
     * [Training a Neural Network , Part 2]()
+        * [Inputs: Weights and Height Ouputs: Gender]()
   * [ An Intro to Recurrent Neural Network](#recurrent-neural-network)
   * [CNNs Part 1: An introduction to Convolutional Neural Networks](#convolutional-neural-nnetworks)
   * [CNNs, Part 2: Training a Convolutional Neural Network](#training-CNNs)

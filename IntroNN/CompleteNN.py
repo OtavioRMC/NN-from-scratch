@@ -53,7 +53,7 @@ class NeuralNetwork:
       Elements in all_y_trues correspond to those in data.
     '''
     learn_rate = 0.1
-    epochs = 10000 # number of times to loop through the entire dataset
+    epochs = 100000 # number of times to loop through the entire dataset
 
     for epoch in range(epochs):
       for x, y_true in zip(data, all_y_trues):

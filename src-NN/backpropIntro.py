@@ -49,7 +49,7 @@ def derivActFunction(input,weight):
 def chainRule(input,output,desired_out):
     dActFunction_dweight = derivActFunction(input,output)
     dMseLoss_dActFunction = derivMSEloss(output,desired_out)
-    return 
+    return dActFunction_dweight * dMseLoss_dActFunction
 
 # Ploting MSEloss function
 

@@ -14,7 +14,7 @@
   * [CNNs, Part 2: Training a Convolutional Neural Network](#training-CNNs)
   * [What i have learned](#what-i-have-learned)
 
-### What i have learned:
+### What i have learned while implementing a Neural Network from Scratch:
 
 1. Neural network architecture and how it is constructed using neurons.
 
